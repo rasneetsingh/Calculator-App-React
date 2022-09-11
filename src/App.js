@@ -1,6 +1,8 @@
 import './index.css';
 import { useState } from 'react';
 
+// calculator app
+
 
 function App(){
   const[calc, setCalc] = useState("");
